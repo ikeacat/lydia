@@ -51,7 +51,7 @@ body {
 	border: 5px solid mediumpurple;
 	border-radius: 15px;
 	justify-content: space-evenly;
-	position:fixed;
+	position:static;
 	bottom: 55px;
 	top: auto;
 }
@@ -70,6 +70,7 @@ body {
 	margin:0;
 	align-self: center;
 	align-content: center;
+	font-family: "Open Sans", sans-serif;
 
 }
 .linkbaritem:hover {
