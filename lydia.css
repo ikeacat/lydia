@@ -51,6 +51,9 @@ body {
 	border: 5px solid mediumpurple;
 	border-radius: 15px;
 	justify-content: space-evenly;
+	position:fixed;
+	bottom: 55px;
+	top: auto;
 }
 
 .linkbaritem {
@@ -67,6 +70,7 @@ body {
 	margin:0;
 	align-self: center;
 	align-content: center;
+
 }
 .linkbaritem:hover {
 	background-color: white;
